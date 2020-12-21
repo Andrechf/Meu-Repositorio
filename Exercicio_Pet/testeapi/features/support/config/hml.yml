@@ -1,0 +1,15 @@
+url_default:
+  user: 'https://petstore.swagger.io/v2/user'
+  pet: 'https://petstore.swagger.io/v2/pet'
+  store: 'https://petstore.swagger.io/v2/store/order' 
+
+usuarios:
+  idUser: 1
+  username: "MariaAss"
+  firstName: "Maria"
+  lastName: "Assuncao"
+  email: "maria.ass@mailinator.com"
+  password: "123456"
+  phone: "11988121414"
+  userStatus: 1
+  

@@ -1,0 +1,7 @@
+default: --publish-quiet -p html -p hml 
+
+html: --no-source --color --format pretty --format html --out=logs/reports/relatorio.html
+
+hml: ENVIRONMENT=hml
+
+

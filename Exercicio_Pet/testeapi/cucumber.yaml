@@ -1,0 +1,5 @@
+default: --publish-quiet -p html -p hml 
+
+html: --no-source --color --format pretty --format html --out=reports/report.html
+
+hml: ENVIRONMENT=hml
